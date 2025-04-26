@@ -1,0 +1,2 @@
+[nbdev]
+streamlit_jupyter = streamlit_jupyter._modidx:d
